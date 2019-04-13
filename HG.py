@@ -8,7 +8,7 @@ print ("#    								                                                           
 print ("#                              Ini GmailHack                                  #")
 print ("#                                                                                                                                                                                  #")
 print ("#                                                                                                                                                                                  #")
-print ("#                      httpsthub.com/BajinganCyberArmy                        #")
+print ("#                   https://github.com/BajinganCyberArmy                        #")
 print ("#                                                      		                                                                                                                   #")
 print ("###############################################################################")
 #######################################################################################################
